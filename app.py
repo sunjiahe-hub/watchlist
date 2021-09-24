@@ -31,11 +31,10 @@ def test_url_for():
 @app.route('/')
 def index():
     return render_template('index.html', name=name, movies=movies)
+    # 注意：上面的name为字符串参数、movies为列表参数。
 
 
-
-
-name = 'Grey Li'
+name = 'Sunjiahe'
 movies = [
 {'title': 'My Neighbor Totoro', 'year': '1988'},
 {'title': 'Dead Poets Society', 'year': '1989'},
