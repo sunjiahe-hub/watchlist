@@ -7,9 +7,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://blog.i-xiao.space/)
 
 
-
 # <img src="https://sgs.bioinfotoolkits.net/document/images/ic_launcher_72.png" width="40px" > SGS: An Integrative Browser for Collaborative Visualization of Single-cell and Spatial Multimodal Data
-‘< img  align=center src="https://img.shields.io/badge/help_document-SGS-%2309cb2f?style=flat"/>’
 
 🎉 SGS 👋, a user-friendly ⚡, collaborative ⚡ and versatile ⚡ browser for visualizing single-cell and spatial multiomics data, including scRNA, spatial transcriptomics, scATAC, scMethylC, sc-eQTL etc. 
 With advanced features for comparative visualization, multi-panel coordiniate view, abundant visualization functions and collaborative exploration, SGS empowers researchers to unlocking the novel insights from scMulti-omics data 🎉.
