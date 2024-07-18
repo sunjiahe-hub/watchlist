@@ -130,11 +130,11 @@ docker run -d \
 If you found an issue, please [report it](https://github.com/fanglu0411/sgs/issues) along with any relevant details to reproduce it. Thanks.
 
 # 😊 Contact
-+ YiWang (yiwang28@swu.edu.cn)    
-+ LuFang (lufang0411@sina.com)
-+ LuoYongJiang (lyjiang126@yeah.net)
-+ xiatingting (xtt199239@163.com)
-+ sunjahe (sunjiahe0502@email.swu.edu.cn)
++ Yi Wang (yiwang28@swu.edu.cn)    
++ Fang Lu (lufang0411@sina.com)
++ Yongjiang Luo (lyjiang126@yeah.net)
++ Tingting Xia (xtt199239@163.com)
++ Jiahe Sun (sunjiahe0502@email.swu.edu.cn)
 
 # 🌹 Citiation
 
