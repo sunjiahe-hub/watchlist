@@ -1,22 +1,27 @@
+
+
+
+
+
 # <img src="https://sgs.bioinfotoolkits.net/document/images/ic_launcher_72.png" width="40px" > SGS: An Integrative Browser for Collaborative Visualization of Single-cell and Spatial Multimodal Data
 ‘< img  align=center src="https://img.shields.io/badge/help_document-SGS-%2309cb2f?style=flat"/>’
 
-SGS, a user-friendly, collaborative and versatile browser for visualizing single-cell and spatial multiomics data, including scRNA, spatial transcriptomics, scATAC, scMethylC, sc-eQTL etc. 
-With advanced features for comparative visualization, multi-panel coordiniate view, abundant visualization functions and collaborative exploration, SGS empowers researchers to unlocking the novel insights from scMulti-omics data.
+SGS 👋, a user-friendly ⚡, collaborative ⚡ and versatile ⚡ browser for visualizing single-cell and spatial multiomics data, including scRNA, spatial transcriptomics, scATAC, scMethylC, sc-eQTL etc. 
+With advanced features for comparative visualization, multi-panel coordiniate view, abundant visualization functions and collaborative exploration, SGS empowers researchers to unlocking the novel insights from scMulti-omics data 🎉🎉.
 
 <img src="https://sgs.bioinfotoolkits.net/document/assets/home-D-OuhsfI.png" width="500px" >
 
 
-# Document
+# 🚀 Document
 Instructions, documentation, and tutorials can be found at:
 [SGS Website](https://sgs.bioinfotoolkits.net)
 
-# File Format and Conversion
+# 💻 File Format and Conversion
 + SGS supports various data formats including Anndata, Mudata, and genome-mapped files (GFF, VCF, BED, Bigwig, HiC, Biginteract, Longrange, methylC, Gwas,). 
 + The SgsAnnData R package enables seamless data format conversion with analysis tools like Seurat, ArchR, Signac, and Giotto. 
 + SgsAnnData can be access by the following links: [SgsAnnData gtihub](https://github.com/bio-xtt/SgsAnnDataV2)     
 
-# Installation
+# ⚙️ Installation
 > **Make Sure Docker is installed on your server**
 SGS primarily utilizes Docker and Flutter technologies to achieve graphical one-click installation. SGS supports the following three deployment methods:  
 
@@ -119,7 +124,7 @@ docker run -d \
     leeoluo/sgs-web:latest
 ```
 
-# Reporting Issues
+# 🌱 Reporting Issues
 If you found an issue, please [report it](https://github.com/fanglu0411/sgs/issues) along with any relevant details to reproduce it. Thanks.
 
 #  Contact
